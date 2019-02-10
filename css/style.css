@@ -1,0 +1,517 @@
+nav .col-6,.col-6{height: 40px;
+
+float: left;
+}
+nav ul{margin-left:52px;
+font-family: 'Open Sans', sans-serif;
+font-size: 14px;
+color:black;}
+nav ul a{color: black;}
+nav img{height: 80%;
+
+margin-top: 5px}
+nav li{display: inline-block;
+margin-left: 20px;}
+nav li:hover {color: #F8667B;
+padding-bottom: 2px;
+border-bottom: 2px solid #F8667B;
+
+}
+.container{margin:1px auto;
+}
+.clear{clear: both;}
+.head{background-image: url(http://preview.uideck.com/items/fusion/assets/img/hero-area.svg);
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: right bottom;
+height: 600px;
+width: 100%}
+
+.button{
+	height: 42px;
+	
+	border-radius: 21px;
+	color: white;
+	background-color: #F63854;
+	display: inline-block;
+	box-sizing: border-box;
+}
+.button:hover {color:#F63854;
+background-color: white;
+border:1px solid #F63854; }
+.download{width: 180px;
+	text-align: center;
+	margin-right: 10px
+}
+.learn{height: 42px;
+	color:#F63854;
+background-color: white;
+border:1px solid #F63854;
+
+	border-radius: 21px;
+	display: inline-block;
+
+
+	width: 140px;
+text-align: center}
+.learn:hover{
+	color: white;
+	background-color: #F63854;
+	border:none;
+
+}
+.left{float: left;}
+.right{float: right;}
+.basliq{margin-top: 50px;}
+.basliq h2{margin-top: 10px;
+	font-family: 'Arvo', serif;
+	font-style: bold;
+	font-size: 30px;
+	text-align: center;
+	margin: 0px
+
+}
+.xet{margin: 7px auto 30px auto;
+
+	width: 60px;
+	height: 1px;
+border-bottom:1px #F63854 solid;}
+
+[class^="col"]{
+	
+	box-sizing: border-box;
+	float:left;
+/*border:1px red solid;*/}
+
+	.servicesbir{
+		height: 250px;
+		width: calc(92%/3);
+		/*background-color: black;*/
+		box-sizing: border-box;
+		margin:13px;
+		
+		box-shadow: 1px 1px 9px 1px lightgray;
+
+		
+		
+	}
+.servicesbir:hover{
+	box-shadow: 6px 6px 27px 10px lightgray;
+}
+h3{color:rgba(0,0,0,0.5);
+font-family: 'Arvo', serif;
+	font-style: bold;
+	font-size: 16px;
+	text-align: center;
+	 }
+
+ .servicesbir p {font-family:open sans,sans-serif;
+ 	            color: #B3B4B6; 
+ 	            font-size:15px;
+ 	            text-align: center;
+ 	            margin: 10px;
+
+                }
+
+  .icon{width: 50px;
+  	height: 50px;
+  	margin-top:15px;
+  	margin-left: 40%;
+  	padding:17px;
+  	font-size: 40px;
+  	text-align: center;
+  	
+  	border-radius: 100%;
+  	display: inline-block;
+     border:1px solid;
+     border-color:rgba(0,0,0,0.1);
+     color: #F63854}
+
+     h3:hover{
+     	color:#F63854; 
+     }
+     .servicesbir:hover :first-child div{border:none;
+     	background-color: #F63854;
+     	color: white;
+     }
+    
+     a{text-decoration-line: none;}
+     .statistic{height: 600px;
+     	width: 100%;
+     	background-color: #F9F9F9;
+     	margin-top: 70px;}
+
+     .more p{text-align: center;
+     	padding:0px 25px;
+     }
+     .more{margin:40px 10px;}
+    
+
+ 	  .statistic h2{margin-top: 10px;
+	font-family: 'Arvo', serif;
+	font-style: bold;
+	font-size: 30px;
+	margin: 10px}
+	.statisticcontent{margin-top:70px;
+		padding-top: 20px}
+
+ .featurescontent{margin:20px 0px;
+		height: 135px;
+		width: 90%;
+		
+		box-sizing: border-box;
+		
+		
+		box-shadow: 1px 1px 9px 1px lightgray;}
+
+		
+		
+	
+ .featurescontent:hover{
+	box-shadow: 6px 6px 27px 10px lightgray;}
+
+  .featurescontent h4{margin-top: 5px;
+	font-family: 'Arvo', serif;
+	color: black;
+	font-style: bold;
+	font-size: 20px;
+	margin: 5px}  
+	.featurescontent p{font-family:open sans,sans-serif;
+ 	            color: #B3B4B6; 
+ 	            font-size:15px;
+ 	            margin: 5px;} 
+ 	 .featurescommentl{width: 75%;
+ 	 	height: 100%;
+ 	 	text-align: right;
+
+ 	 }
+ 	 .featuresiconl{width: 25%;
+ 	 	height: 100%;
+ 	 	margin:0px;
+ 	 	text-align: left;
+
+
+ 	 	}
+ 	 	.featuresiconl i{margin-top: 15px;
+ 	 		margin-left: 10px;
+ 	 		color:#F63854;
+ 	 		font-size: 30px }
+
+ 	 	.featurescommentr{width: 75%;
+ 	 	height: 100%;
+ 	 	text-align: left;}
+ 	 	.featuresiconr{width: 25%;
+ 	 	height: 100%;
+ 	 	margin:0px;
+ 	 	text-align: right;}
+
+ 	 	.featuresiconr i{margin-top: 15px;
+ 	 		margin-right: 10px;
+ 	 		color:#F63854;
+ 	 		font-size: 30px }
+ 	 	.featurescontent:hover :first-child h4{color:#F63854;}
+
+.mobile{width: 95%;
+		box-sizing: border-box;}
+.mobile img{width: 100%;
+margin-top: 50px}
+
+.meetteam{height: 600px;
+     	width: 100%;
+     	background-color: #F9F9F9;
+     	margin-top: 70px;}
+.team{margin:20px 0px;
+		height: 200px;
+		width: 95%;
+	
+		box-sizing: border-box;
+		
+		
+		box-shadow: 1px 1px 9px 1px lightgray;}
+
+		
+		
+	
+ .team:hover{
+	box-shadow: 6px 6px 27px 10px lightgray;}
+
+.teamcomment h3{color:rgba(0,0,0,1);
+font-family: 'Arvo', serif;
+	font-style: bold;
+	font-size: 16px;
+	text-align: left;
+margin-left: 15px;}
+.teamcomment h3:hover{
+     	color:#F63854; }
+.teampic{width: 200px;
+	height: 100%;
+	
+    margin-right: 20px;
+
+}
+.teampic img{width: 100%;
+height: 100%;}
+.teamcomment{padding-top: 10px;
+
+
+margin:none;}
+
+.teamcomment p{font-family:open sans,sans-serif;
+ 	            color: #B3B4B6; 
+ 	            font-size:15px;
+ 	            margin: 5px;
+ 	          }
+.teamabout{display: inline-block;}
+.tmabout p{font-family:open sans,sans-serif;
+ 	            color: #9E9E9E; 
+ 	            font-size:17px;
+ 	            margin: 5px;
+ 	           }
+ .teamcomment li{
+ 	display: inline-block;
+ 	margin-left: 15px;
+ }
+
+.pricing{margin:20px 0px;
+		height: 430px;
+		width: 90%;
+		
+		box-sizing: border-box;
+		
+		
+		box-shadow: 1px 1px 9px 1px lightgray;}
+
+		
+		
+	
+ .pricing:hover{
+	box-shadow: 6px 6px 27px 10px lightgray;}
+
+
+.picon{width: 50px;
+  	height: 50px;
+  	margin-top:15px;
+  	margin-left: 3%;
+  	padding:17px;
+  	font-size: 40px;
+  	text-align: center;
+  	background-color: #EBEDEF;
+  	
+  	border-radius: 100%;
+  	display: inline-block;
+     border:1px solid;
+     border-color:rgba(0,0,0,0.1);
+     color: #F63854}
+
+     
+     
+     .pricing:hover :first-child{border:none;
+     	background-color: #F63854;
+     	color: white;
+     }
+.pricing{text-align: center;
+          line-height: 30px;}
+.pricing p{font-family:open sans,sans-serif;
+ 	            color: #B3B4B6; 
+ 	            font-size:15px;
+ 	            margin: 5px;
+ 	            display: inline-block;
+ 	          }
+.pricing h2{color:rgba(0,0,0,1);
+font-family: 'Arvo', serif;
+color: #F63854;
+	font-style: bold;
+	font-size: 22px;
+	text-align: center;
+margin-left: 15px;
+margin-top: 20px;
+display: inline-block;}
+
+
+ .pricing h3{color:rgba(0,0,0,1);
+font-family: 'Arvo', serif;
+	font-style: bold;
+	font-size: 16px;
+	display: inline-block;
+	text-align: center;
+margin-left: 15px;}
+.buy{text-align: center;
+width: 130px;
+}
+.buy p{color: white}
+
+.buy p:hover{color:#F63854 }
+
+.pricingo{margin:20px 0px;
+		height: 430px;
+		width: 90%;
+		
+		box-sizing: border-box;
+		
+		
+		box-shadow: 6px 6px 27px 10px lightgray;}
+
+	
+.pricingo{text-align: center;
+          line-height: 30px;}
+.pricingo p{font-family:open sans,sans-serif;
+ 	            color: #B3B4B6; 
+ 	            font-size:15px;
+ 	            margin: 5px;
+ 	            display: inline-block;
+ 	          }
+.pricingo h2{color:rgba(0,0,0,1);
+font-family: 'Arvo', serif;
+color: #F63854;
+	font-style: bold;
+	font-size: 22px;
+	text-align: center;
+margin-left: 15px;
+margin-top: 20px;
+display: inline-block;}
+
+
+ .pricingo h3{color:rgba(0,0,0,1);
+font-family: 'Arvo', serif;
+	font-style: bold;
+	font-size: 16px;
+	display: inline-block;
+	text-align: center;
+margin-left: 15px;}
+.buy p{color: white}
+
+.buy p:hover{color:#F63854 }
+
+.picono{width: 50px;
+  	height: 50px;
+  	margin-top:15px;
+  	margin-left: 3%;
+  	padding:17px;
+  	font-size: 40px;
+  	text-align: center;
+  	background-color:#F63854 ;
+  	
+  	border-radius: 100%;
+  	display: inline-block;
+     border:none;
+ 
+     color: white}
+
+     
+     
+     .picono:hover {border:none;
+     	background-color: #F63854;
+     	color: white;
+     }
+
+     .red{margin-top:50px;
+     	background-color:#F63854;
+     height: 530px;
+     width: 100% }
+
+.test{height: ;
+	width: 95%;
+	padding-bottom: 12px;
+	text-align: center;
+background-color: white;
+margin-top: 60px;
+border-radius: 1%
+}
+
+.picicon img{
+  
+  	
+    border-radius: 60%;
+  	margin:35px auto;}
+
+  .test h3{color:rgba(0,0,0,1);
+font-family: 'Arvo', serif;
+	font-style: bold;
+	font-size: 16px;
+	
+}
+h4{font-family: 'Arvo', serif;
+	font-style: bold;
+	}
+	.test p{font-family:open sans,sans-serif;
+    color: #404040;
+    font-size: 14px}
+    .staricon{text-align: center;
+    	margin: 20px auto;}
+.staricon span{color:#F63854;
+
+ }
+.slider{margin: 20px;
+text-align: center}
+.daire{padding: 4px;
+	margin-left: 3px;
+border-radius: 100%;
+display: inline-block; }
+.daire-1{border: 2px solid white;
+}
+.daire-2{background-color: white;
+         border: 2px solid white;}
+.daire-2:hover{border: 2px solid white;
+background-color: #F63854}
+
+.free p{font-family:open sans,sans-serif;
+ 	            color: #B3B4B6; 
+ 	            font-size:15px;
+ 	            margin: 5px;
+ 	            display: inline-block;
+ 	            margin-bottom: 40px;
+ 	          }
+ 	.free h2{margin-left: 0px;
+ 		margin-top: 50px;
+ 		margin-bottom: 20px;
+ 	display: inline-block; }
+ 	.regbutton{float: right;
+ 		text-align: center;
+ 	width: 140px;
+ 	margin-top: 16%}
+ 	.trialfre{display: block;
+ 		height: 220px}
+
+ 	.gray{
+ 		height: 550px;
+ 		width: 100%;
+ 		background-color: #F9F9F9;
+ 	}
+ 	.fusion{width: 230px}
+ 	.fusion li{display: inline-block;
+ 		width: 20px;
+ 		height: 20px;
+ 		margin-right: 20px;
+ 		text-align: center;}
+ 	.fusion li:nth-child(1):hover{color:white;background-color: #3B5998}
+ 	.fusion li:nth-child(2):hover{color:white;background-color:  #01ACED}
+ 	.fusion li:nth-child(3):hover{color:white;background-color: #FB3958}
+ 	.fusion li:nth-child(4):hover{color:white;background-color: #007bff}
+
+.products ul{list-style: none;
+                 padding-inline-start: 0px;}
+
+ .products li{color: rgba(0,0,0,0.7);
+ 	margin-top: 20px;
+ font-size: 14px;
+    font-weight: 800;}
+    ul{list-style: none;}
+
+    .contact ul li{
+    	color: rgba(0,0,0,0.7);
+ 	margin-top: 20px;
+    font-weight: 400;
+    }
+.axr{margin-left:40% ;
+}
+ 	
+
+
+
+
+
+
+
+
+
+
